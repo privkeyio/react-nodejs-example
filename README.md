@@ -1,7 +1,7 @@
 # react-nodejs-example
 
 // clone the project
-git clone https://github.com/bbachi/react-nodejs-example.git
+git clone https://github.com/privkeyio/react-nodejs-example.git
 // strat the api
 cd api
 npm install
