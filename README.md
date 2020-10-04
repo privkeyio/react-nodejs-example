@@ -8,7 +8,7 @@ https://medium.com/bb-tutorials-and-thoughts/how-to-develop-and-build-react-app-
 // clone the project
 git clone https://github.com/privkeyio/react-nodejs-example.git
 
-// strat the api
+// start the api
 
 cd api
 npm install
